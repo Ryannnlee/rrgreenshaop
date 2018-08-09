@@ -68,8 +68,8 @@ $(function () {
         speed: 300,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: false,
-        autoplaySpeed: 5000
+        autoplay: true,
+        autoplaySpeed: 4000
     });
     $('#section4 .slider').slick({
         dots: false,
@@ -77,8 +77,8 @@ $(function () {
         speed: 300,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: false,
-        autoplaySpeed: 5000
+        autoplay: true,
+        autoplaySpeed: 4000
     });
     $('#section5 .slider').slick({
         dots: false,
@@ -86,7 +86,7 @@ $(function () {
         speed: 300,
         slidesToShow: 1,
         slidesToScroll: 1,
-        autoplay: false,
-        autoplaySpeed: 5000
+        autoplay: true,
+        autoplaySpeed: 4000
     });
 });
