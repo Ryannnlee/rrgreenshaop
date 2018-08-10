@@ -2,7 +2,7 @@ $(function() {
     //fullpage
     $('#fullpage').fullpage({
         verticalCentered: true,
-        anchors: ['Home'],
+        anchors: ['Home', '1stpage', '2ndpage', '3thpage', '4thpage', '5thpage'],
         scrollBar: true,
         menu: '#menu',
         responsiveWidth: 1025,
